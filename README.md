@@ -17,7 +17,7 @@ The reason why was originally due to remote working as a user.
 ## Link that informed me about the existence of NvChad
 - https://www.youtube.com/watch?v=Mtgo-nP_r8Y&ab_channel=DreamsofCode
 ```
-
+![nvim](nvim.png)
 
 ## Step one -- Install a font through command line
 Using wget the zip containing fonts can be obtained.
