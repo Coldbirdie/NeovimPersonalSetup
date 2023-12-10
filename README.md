@@ -94,6 +94,7 @@ One neovim is installed; type: nvim --version, to check to current version.
   - nvim
 4. Prompt: Do you want to install example custom config? (y/n): N
   - So type N (no)
+    
 **5.noProblems.** If no packages are missing the installation will start and once finished search for a video telling what you can do with NvChad.
 
 **5.Problems.** If package are missing, because of course that's fun. You will probably get a lua error. In my installation run I missed gettext.
